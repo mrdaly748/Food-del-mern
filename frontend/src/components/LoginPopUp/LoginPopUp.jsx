@@ -1,5 +1,5 @@
 import React, { useContext, useState } from 'react'
-import './LoginPopup.css'
+import './LoginPopUp.css'
 import { assets } from '../../assets/assets'
 import { StoreContext } from "../../context/storeContext"
 import axios from "axios"
