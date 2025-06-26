@@ -1,4 +1,5 @@
 🍔 Food Del — MERN Food Delivery App
+
 Food Del is a comprehensive food delivery application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It streamlines the food ordering and delivery process, serving both customers and restaurant owners with an integrated platform.
 
 🚀 Project Overview
