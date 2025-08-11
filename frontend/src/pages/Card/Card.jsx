@@ -52,7 +52,7 @@ function Card() {
             <hr />
             <div className="cart-total-details">
               <p>Delivery Fee</p>
-              <p>${getTotalCartAmount()}</p>
+              <p>$2</p>
             </div>
             <hr />
             <div className="cart-total-details">
